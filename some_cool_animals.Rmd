@@ -54,11 +54,12 @@ Here's where I want to have info on Ringtails.
 
 We'll also learn about 'knitr::include_graphics()
 
-Few fun facts about ringtail:
-They can rotate their hind feet to 180 degrees, just like squirrels 
-They are not endangered
-They are very elusive
-They are closely related to racoons
+##### Few fun facts about ringtail:
+
+-They can rotate their hind feet to 180 degrees, just like squirrels 
+-They are not endangered
+-They are very elusive
+-They are closely related to racoons
 
 ###
 
